@@ -12,3 +12,4 @@ variable "clusterName" {
 
 # sample code 
 #sample 2
+#sample 3
